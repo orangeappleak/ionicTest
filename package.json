@@ -2,6 +2,7 @@
   "name": "myApp",
   "private": true,
   "version": "0.0.1",
+  "homepage": "https://testionic123.web.app/",
   "type": "module",
   "scripts": {
     "dev": "vite",
